@@ -19,6 +19,7 @@ public class caladd {
 						   break;
 						   
 				case '2' : System.exit(0);
+					   System.out.println("BYE!");
 						   break;
 						   
 				default : System.out.print("INVALID CHOICE !!!");
